@@ -1,6 +1,6 @@
 ### Hey people!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-It's Tabish...Tabish Shakeel! I have graduated from NIT Durgapur in 2020. I was born in Lucknow, live in Hyderabad and working as a Software Developer 
+It's Tabish...Tabish Shakeel! I have graduated from NIT Durgapur in 2020. I was born in Lucknow, live in Hyderabad and working as a Software Developer at 
 <img height="15" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmRY8VHJfIwmHHUsR9bbfr8kh5otQY0I43T7ngEEWnE7rXoBkO">.  
 - 😄 Pronouns: He/His 
 
