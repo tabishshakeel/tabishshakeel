@@ -1,8 +1,5 @@
 ### Hey people!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
- I am Tabish Shakeel! I have graduated from NIT Durgapur in 2020. I was born in Lucknow, now I live in Hyderabad and working as a Software Developer at 
-<img height="15" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmRY8VHJfIwmHHUsR9bbfr8kh5otQY0I43T7ngEEWnE7rXoBkO">.  
-- 😄 Pronouns: He/His 
+My name is Tabish Shakeel! I have graduated from NIT Durgapur in 2020. I was born in Lucknow, now I live in Hyderabad. I am working as a Software Developer at  <img height="15" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmRY8VHJfIwmHHUsR9bbfr8kh5otQY0I43T7ngEEWnE7rXoBkO">.  
 
  <h3  align='center'> Find Me on the Web :globe_with_meridians: </h3>
  <p align='center'>
@@ -37,6 +34,6 @@
 <a href="https://github.com/tabishshakeel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tabishshakeel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tunai's GitHub Stats" />
 </a>
-
+<p><code><img height="25" src="https://komarev.com/ghpvc/?username=Tuntai7&color=red"></code></p>
 
 
