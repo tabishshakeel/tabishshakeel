@@ -34,6 +34,6 @@ My name is Tabish Shakeel! I have graduated from NIT Durgapur in 2020. I was bor
 <a href="https://github.com/tabishshakeel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tabishshakeel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tunai's GitHub Stats" />
 </a>
-<p><code><img height="25" src="https://komarev.com/ghpvc/?username=Tuntai7&color=red"></code></p>
+<p><code><img height="25" src="https://komarev.com/ghpvc/?username=tabishshakeel&color=red"></code></p>
 
 
